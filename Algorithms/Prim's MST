@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.PriorityQueue;
 import java.util.Scanner;
-
+//plant
 public class MST {
 
 	public static class mPoint implements Comparable<mPoint> {
